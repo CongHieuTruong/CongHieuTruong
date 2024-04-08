@@ -8,7 +8,7 @@
 - 💬 Ask me about Artificial Intelligent
 - 📫 How to reach me: hieu.kstn.bk@gmail.com
 - 😄 Pronouns: Mr
-- ⚡ Fun fact: [Interesting fact about yourself]
+- ⚡ Fun fact: In an alternate universe, I was known as the "Quantum Juggler." My specialty? Balancing not just balls, but entire galaxies on my fingertips. 🌌🌟
 
 ## Languages and Tools
 !Top Langs
