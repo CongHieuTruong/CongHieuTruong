@@ -1,9 +1,5 @@
-<h3 align="center">Hey there, I'm Hieu Truong Cong - <a href="https://shinchancode.github.io/3d-react-portfolio/">Brenton<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<h3 align="center">Hey there, I'm Hieu Truong Cong - <a href="https://hieu-truong-cong.firebaseapp.com/">Brenton<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 <p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=false&width=535&lines=Software+Developer+at+Relia+Software;a+mentor%2C+Tech+-+Enthusiast;Expert-level+Table-Tennis+Player" alt="Typing SVG" /></a></p>
-    
-[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Aarti%20Rathi&url=https%3A%2F%2Fshinchancode.github.io/React-Portfolio%2F)](https://shinchancode.github.io/3d-react-portfolio/)
-
-[![@AartiKumari's Holopin board](https://www.holopin.me/shinchancode)](https://holopin.io/@shinchancode)
 
 <h2 align="center"> Connect With Me </h2>
 
