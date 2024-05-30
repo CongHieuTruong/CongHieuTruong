@@ -1,10 +1,10 @@
 # Hello 👋, I'm Hieu Truong Cong!
 
 ## About Me
-- 🔭 I’m currently working at Cyberlogitec VN
-- 🌱 I’m currently learning [Technology/Skill]
+- 🔭 I’m currently working at Relia Software
+- 🌱 I’m currently learning [Management skill]
 - 👯 I’m looking to collaborate on Artificial Intelligent and Web, Extension Development
-- 🤔 I’m looking for help with [Specific Issue]
+- 🤔 I’m looking for help with [How to improve my management skill]
 - 💬 Ask me about Artificial Intelligent
 - 📫 How to reach me: hieu.kstn.bk@gmail.com
 - 😄 Pronouns: Mr
