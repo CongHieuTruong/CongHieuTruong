@@ -7,7 +7,7 @@
 <a href="mailto: hieu.kstn.bk@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=SGCKpmr2U7Sq&format=png&color=000000" alt="https://dev.to/shinchancode" height="30" width="40" /></a>
 <a href="https://hieu-truong-cong.firebaseapp.com/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=n9d0Hm43JCPK&format=png" alt="https://dev.to/shinchancode" height="30" width="40" /></a>
 <a href="https://www.facebook.com/hieu.truong26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aarti.rathi.1710" height="30" width="40" /></a>
-<a href="https://github.com/Around-experts" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/FD7E14/github.png" alt="https://dev.to/shinchancode" height="30" width="40" /></a>
+<a href="https://github.com/CongHieuTruong" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/FD7E14/github.png" alt="https://dev.to/shinchancode" height="30" width="40" /></a>
 </p>
 <br>
 <p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=shinchancode&label=Profile%20views&color=0e75b6&style=flat" alt="shinchancode" /> </p>
