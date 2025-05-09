@@ -3,9 +3,9 @@
 
 <h2 align="center"> Languages & Tools </h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,kotlin,html,css,js,bootstrap,nodejs,django,flask,git,firebase,react" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,nodejs,django,flask,git,firebase" />
   <br>
-    <img src="https://skillicons.dev/icons?i=mysql,angular,bash,figma,vscode,ts,aws,gcp,mongodb,pug" />
+    <img src="https://skillicons.dev/icons?i=mysql,react,bash,figma,ts,aws,gcp,mongodb" />
 </p><br>
 <hr>
 
